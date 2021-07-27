@@ -1,0 +1,33 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path id="svg_2" data-original="#1976d2" fill="#000000" d="m448,0l-384,0c-35.296,0 -64,28.704 -64,64l0,384c0,35.296 28.704,64 64,64l384,0c35.296,0 64,-28.704 64,-64l0,-384c0,-35.296 -28.704,-64 -64,-64z" xmlns="http://www.w3.org/2000/svg"/>
+   <path id="svg_3" data-original="#fafafa" fill="#fafafa" d="m432,256l-80,0l0,-64c0,-17.664 14.336,-16 32,-16l32,0l0,-80l-64,0l0,0c-53.024,0 -96,42.976 -96,96l0,64l-64,0l0,80l64,0l0,176l96,0l0,-176l48,0l32,-80z" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_4" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_5" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_6" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_7" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_8" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_9" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_10" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_11" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_12" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_13" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_14" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_15" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_16" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_17" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_18" xmlns="http://www.w3.org/2000/svg"/>
+  </g>
+  <path d="m33,-11c0,3 0,4 -4,6c-4,2 -7.11237,1.54705 -12,3c-5.16191,1.53449 -12,3 -22,3c-11,0 -20,-2 -20,0c0,1 5,1 8,3l6,4l8,5l8,3" id="svg_19" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m15,20c1,1 1.22975,2.02675 1,3c-0.51374,2.17625 -5.18595,6.90917 -10,17c-5.20274,10.90557 -8,18 -9,21l0,2l4,0l15,-3" id="svg_20" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m386,10c1,0 7.8855,1.69745 18,3c16.88989,2.17509 40,3 65,3c23,0 47,2 70,2c18,0 26.70709,0.29289 26,1c-0.70709,0.70711 -2,0 -2,1l0,1" id="svg_21" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m79,15c-8,1 -21.01614,1.64758 -34,1c-10.0374,-0.50062 -21.18144,-4.55166 -34,-10c-15.23399,-6.47498 -37,-17 -62,-27l-18,-6l-8,-2l-3,-1" id="svg_22" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m43,466c-6,-1 -13.67769,-0.79352 -22,7c-8.78934,8.2309 -12.32047,18.3895 -20,31c-11.97415,19.66266 -28.03723,38.17554 -51,56c-22.13251,17.17999 -36,28 -41,34l1,0l4,0" id="svg_23" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m494,443c-4,0 -15.33902,0.10092 -19,7c-4.71078,8.87741 0.09601,23.98004 4,43c4.10095,19.97955 8.69681,39.09021 13,53c2.80377,9.06305 5,17 7,23l2,7l3,1l1,0" id="svg_24" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m19,491c0,1 0.21325,6.207 4,19c3.32213,11.22333 5.97307,22.30457 10,34c3.20637,9.31232 6,16 8,18l1,1l1,0" id="svg_25" stroke-width="99" stroke="#000" fill="none"/>
+  <path d="m516,448c-2,0 -4.95517,0.54916 -6,4c-1.15915,3.82837 0.51196,12.23315 5,21c6.33069,12.36618 14,21 22,29l5,5l4,3l1,1" id="svg_26" stroke-width="99" stroke="#000" fill="none"/>
+ </g>
+</svg>
